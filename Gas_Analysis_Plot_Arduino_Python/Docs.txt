@@ -1,0 +1,28 @@
+                                    Gas Conncentration Analysis:
+
+
+Hardware Requirement:
+                        1. Nodemcu exp-12E Wi-fi Board
+                        2. MQ2 Gas Sensor
+                        3. Jumper Cables
+                        4. Power Source.
+
+Software Requirement:
+                        1. Arduino IDE
+                        2. Python Intrepreter
+
+
+DOCUMENTATION:
+                            This porject is designed to analyse to Gas Concentration in the Surrounding Atmosphere,
+            by  analysing the hazardous Gas Concentration in the Air, using Gas Sensor.
+
+
+            The Data Analysed by the gas sensor, is retrieved throught a wi-fi board to a Computing Device to analyze 
+            the Data and plot a Graph. 
+
+            The Data retrieved from the Gas Sensor is use to plot a Graph, with Concentration of the Hazardous Gas, against the Time.
+
+            Graph Plots:
+                            1. Instantaneous Plot - to analyse the Gas Concentration levels at present, over a Range of Values.
+                            2. Recorded Plot - to analyze and record the Gas Concentration over a Period of time.
+                
